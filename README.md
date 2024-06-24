@@ -8,6 +8,7 @@ Welcome to the FreeLibrary prototype repository! This repository is created sole
 
 - This repository is a prototype and does not reflect the final version of the project.
 - The project is still under development, and there might be issues or bugs in the Vercel output, such as server problems.
+- This project is created for educational purposes.
 
 ## Running the Project Locally
 
@@ -39,7 +40,6 @@ To run this project on your local machine, follow these steps:
     ```
 
 6. **Access the Localhost**: Open your web browser and navigate to `http://localhost:3000` (or the port specified in your server configuration) to see the project running locally.
-
 
 ## Additional Information
 
