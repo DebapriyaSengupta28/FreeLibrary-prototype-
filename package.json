@@ -37,3 +37,10 @@
     "vite": "^5.2.0"
   }
 }
+
+{
+  "scripts": {
+    "build": "vite build",
+    "start": "node server.js"
+  }
+}
