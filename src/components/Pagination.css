@@ -1,0 +1,22 @@
+.pagination {
+  color: white; /* Ensure text is white */
+  text-align: center;
+  font-size: 1.6rem; /* Increase the font size */
+  padding: 10px 0; /* Add padding for better spacing */
+}
+
+.pagination-link {
+  margin: 0 5px;
+  cursor: pointer;
+  color: white; /* Ensure text is white */
+  transition: color 0.3s;
+}
+
+.pagination-link:hover {
+  color: #007bff; /* Change this to the desired hover color */
+}
+
+.pagination-link.active {
+  font-weight: bold;
+  color: #007bff;
+}
