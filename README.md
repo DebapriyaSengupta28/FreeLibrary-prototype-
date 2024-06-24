@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the FreeLibrary prototype repository! This repository is created solely to showcase the project output through Vercel. Please note that this repository does not represent the final project, as it is still a work in progress. You can view the live prototype [here](https://free-library-prototype.vercel.app/){:target="_blank"}.
+Welcome to the FreeLibrary prototype repository! This repository is created solely to showcase the project output through Vercel. Please note that this repository does not represent the final project, as it is still a work in progress. You can view the live prototype [here](https://free-library-prototype.vercel.app/).
 
 ## Important Notes
 
